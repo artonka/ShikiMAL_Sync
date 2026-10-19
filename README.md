@@ -1,7 +1,6 @@
 # Shiki → MAL Sync
 
-Пользовательский скрипт для автоматической односторонней синхронизации списков **Shikimori → MyAnimeList**. Работает на страницах тайтлов (аниме, манга, ранобэ): отслеживает изменения и мгновенно отправляет их в официальный API MyAnimeList.
-
+Пользовательский скрипт для автоматической односторонней синхронизации списков **Shikimori → MyAnimeList**. Работает на страницах тайтлов (аниме, манга, ранобэ): отслеживает изменения и отправляет их в API MyAnimeList. На идею подтолкнуло данное [решение](https://shikimori.io/forum/site/619878-avtomaticheskaya-sinhronizatsiya-shikimori-i-myanimelist-v-realnom-vremeni-byla-dobavlenna-podderzhka-domena-io-nuzhna-pomosch-v-dorabotke).
 <img width="1920" height="1080" alt="Страница тайтла со скриптом" src="https://github.com/user-attachments/assets/313f9728-2b5f-4798-a504-13cf5ed34043" />
 
 ## Возможности
